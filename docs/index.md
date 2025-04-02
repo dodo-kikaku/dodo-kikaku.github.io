@@ -11,5 +11,5 @@ WIP
 WIP
 
 <footer style="margin-top: 100px;">
-  <p>&copy; 2025 百々企画. All rights reserved.</p>
+  <p>&copy; 2025 Dodo Kikaku. All rights reserved.</p>
 </footer>
