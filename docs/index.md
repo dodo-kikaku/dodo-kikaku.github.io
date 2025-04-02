@@ -1,5 +1,4 @@
 ---
-layout: default
 title: 百々企画（どどきかく）
 ---
 
