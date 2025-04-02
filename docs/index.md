@@ -1,6 +1,6 @@
 ---
 layout: default
-title: トップ
+title: 百々企画（どどきかく）
 ---
 
 ## ご挨拶
