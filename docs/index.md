@@ -10,6 +10,6 @@ WIP
 
 WIP
 
-<footer style="margin-top: 100px;">
+<footer style="margin-top: 80px;">
   <p>&copy; 2025 Dodo Kikaku. All rights reserved.</p>
 </footer>
