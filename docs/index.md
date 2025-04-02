@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ホーム
+title: TOP
 ---
 
 ## ご挨拶
