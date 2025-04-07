@@ -9,8 +9,15 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <style>
       body {
-        background: #f5f5f5;
-        color: #222;
+          background-color: #fdfdfd;
+          background-image: repeating-linear-gradient(
+              45deg,
+              #eeeeee,
+              #eeeeee 1px,
+              transparent 1px,
+              transparent 10px
+          );
+          color: #222;
       }
     </style>
     {% include head-custom.html %}
